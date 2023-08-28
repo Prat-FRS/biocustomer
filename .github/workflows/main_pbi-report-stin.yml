@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'pbi-report-stin'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0B196C2610EB452296470CE3A02F8F9E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_03D36251E1C146C09C34552CEDC8CBD1 }}
           package: .
